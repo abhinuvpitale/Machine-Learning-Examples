@@ -7,7 +7,8 @@ mnist = input_data.read_data_sets("/tmp/data/",one_hot=True)
 learning_rate = 0.001
 num_steps = 500
 batch_size = 128
-display_step = 10
+display_step = 1
+logs_path = '/tmp/tensorflow_logs/example/'
 
 # Network Parameters
 num_input = 784
@@ -15,9 +16,9 @@ num_classes = 10
 dropout = 0.75
 
 # Create the input graph
-X = tf.placeholder(tf.float32,[None,num_input])
-Y = tf.placeholder(tf.float32,[None,num_classes])
-keep_prob = tf.placeholder(tf.float32)
+X = tf.placeholder(tf.float32,[None,num_input],name='Input Data (MNIST)')
+Y = tf.placeholder(tf.float32,[None,num_classes],name='Label Data')
+keep_prob = tf.placeholder(tf.float32,name='Dropout')
 
 # Create some generic util functions
 def conv2d(inputs, weights, biases, strides = 1):
