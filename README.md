@@ -34,6 +34,8 @@ Data Augmentation - Makes the network more susceptible to changes
 
 8. Cat vs Dog - Tried an example using a vanilla CNN.
 
+9. TensorBoard-Working - Example code for using tensorboard.
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 Special Thanks to [Naresh](https://naresh1318.github.io/) for his awesome backpropogation for my errors! 
