@@ -36,6 +36,11 @@ Data Augmentation - Makes the network more susceptible to changes
 
 9. TensorBoard-Working - Example code for using tensorboard.
 
+10. RNN(LSTM) - The timesteps are added to the LSTM cell.
+
+Read this blog for more info on them
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 Special Thanks to [Naresh](https://naresh1318.github.io/) for his awesome backpropogation for my errors! 
