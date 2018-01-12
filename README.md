@@ -4,13 +4,13 @@ Reading material from http://neuralnetworksanddeeplearning.com/
 
 Implement these with a basic knowledge of Data Analytics and Machine Learning
 
-1. Linear Regression 
+1. Linear Regression
 2. Logistic Regression
 3. kNN
 4. Random Forests - Needs a fix
-5. CNN 
+5. CNN
 
-Also read the awesome tutorial on backpropogation from the same book (Chap 2) and why it works so well for neural nets 
+Also read the awesome tutorial on backpropogation from the same book (Chap 2) and why it works so well for neural nets
 
 6. CNN with Abstraction using Tensorflow. - Needs a fix
 
@@ -19,7 +19,7 @@ Read what happens when the network has a slow learning rate due to the L2 cost f
 a. Cross Entropy
 b. SoftMax
 
-Read about Regularization and why it works. Simple is better, but not neccesarily. 
+Read about Regularization and why it works. Simple is better, but not neccesarily.
 
 a. Over Fitting
 b. No Free Lunches
@@ -41,6 +41,8 @@ Data Augmentation - Makes the network more susceptible to changes
 Read this blog for more info on them
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
+Saving and Restoring a Model - Excellent blog post [here] (http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/)
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-Special Thanks to [Naresh](https://naresh1318.github.io/) for his awesome backpropogation for my errors! 
+Special Thanks to [Naresh](https://naresh1318.github.io/) for his awesome backpropogation for my errors!
