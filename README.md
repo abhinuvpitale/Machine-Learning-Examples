@@ -3,27 +3,31 @@ Following the tutorials from [aymericdamien's Tensorflow Examples](https://githu
 
 Reading material from [Neural Networks and deep Learning](http://neuralnetworksanddeeplearning.com/)
 
-## 1: Implement these with a basic knowledge of Data Analytics and Machine Learning
+## 1: Your first models
 
-1. Linear Regression
-2. Logistic Regression
-3. kNN
-4. Random Forests - Needs a fix
-5. CNN
+Implement these with a basic knowledge of Data Analytics and Machine Learning
+
+1. [Linear Regression](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/2_BasicModels/linear_regression.ipynb)
+2. [Logistic Regression](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/2_BasicModels/logistic_regression.ipynb)
+3. [kNN](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/2_BasicModels/nearest_neighbor.ipynb)
+4. [Random Forests (Needs a fix)](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/2_BasicModels/random_forest.ipynb)
+5. [CNN](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/3_NeuralNetworks/convolutional_network_raw.ipynb)
 
 Also read the awesome tutorial on backpropogation from the same book ([Chapter 2](http://neuralnetworksanddeeplearning.com/chap2.html)) and why it works so well for neural nets
 
-6. CNN with Abstraction using Tensorflow. - Needs a fix
+6. [CNN with Abstraction using Tensorflow (Needs a fix)](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/3_NeuralNetworks/convolutional_network.ipynb)
 
-## 2: Read what happens when the network has a slow learning rate due to the L2 cost function from [Chapter 3](http://neuralnetworksanddeeplearning.com/chap3.html)
+## 2: the Cross-entropy cost function and Regularization
 
-a. Cross Entropy
-b. SoftMax
+Read what happens when the network has a slow learning rate due to the L2 cost function from [Chapter 3](http://neuralnetworksanddeeplearning.com/chap3.html)
 
-## 3: Read about [Regularization](http://neuralnetworksanddeeplearning.com/chap3.html#regularization) and why it works. Simple is better, but not neccesarily.
+1. Cross Entropy
+2. SoftMax
 
-a. Over Fitting
-b. No Free Lunches
+Read about [Regularization](http://neuralnetworksanddeeplearning.com/chap3.html#regularization) and why it works. Simple is better, but not neccesarily.
+
+3. Over Fitting
+4. No Free Lunches
 
 L1 Regularization - Makes the network smaller with lesser number of connections.
 L2 Regularization - Makes sure the weights are not too big.
