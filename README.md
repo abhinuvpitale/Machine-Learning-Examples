@@ -10,15 +10,19 @@ Implement these with a basic knowledge of Data Analytics and Machine Learning
 1. [Linear regression](https://github.com/abhinuvpitale/Machine-Learning-Examples/blob/master/linearRegression.py) 
 
 [(tutorial)](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/2_BasicModels/linear_regression.ipynb)
+
 2. [Logistic Regression](https://github.com/abhinuvpitale/Machine-Learning-Examples/blob/master/logisticRegression.py)
 
 [(tutorial)](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/2_BasicModels/logistic_regression.ipynb)
+
 3. [kNN](https://github.com/abhinuvpitale/Machine-Learning-Examples/blob/master/kNN.py)
 
 [(tutorial)](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/2_BasicModels/nearest_neighbor.ipynb)
+
 4. [Random Forests (Needs a fix)](https://github.com/abhinuvpitale/Machine-Learning-Examples/blob/master/randomForest.py)
 
 [(tutorial)](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/2_BasicModels/random_forest.ipynb)
+
 5. [CNN](https://github.com/abhinuvpitale/Machine-Learning-Examples/blob/master/rawCNN.py)
 
 [(tutorial)](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/3_NeuralNetworks/convolutional_network_raw.ipynb)
@@ -39,6 +43,7 @@ Read about [Regularization](http://neuralnetworksanddeeplearning.com/chap3.html#
 3. Over Fitting 
 
 [(textbook)](http://neuralnetworksanddeeplearning.com/chap3.html#overfitting_and_regularization)
+
 4. No Free Lunches
 
 L1 Regularization - Makes the network smaller with lesser number of connections.
