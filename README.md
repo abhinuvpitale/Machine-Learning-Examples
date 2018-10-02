@@ -1,8 +1,9 @@
 # Machine-Learning-Examples
-Following the tutorials from https://github.com/aymericdamien/TensorFlow-Examples
-Reading material from http://neuralnetworksanddeeplearning.com/
+Following the tutorials from [aymericdamien's Tensorflow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 
-Implement these with a basic knowledge of Data Analytics and Machine Learning
+Reading material from [Neural Networks and deep Learning](http://neuralnetworksanddeeplearning.com/)
+
+## 1: Implement these with a basic knowledge of Data Analytics and Machine Learning
 
 1. Linear Regression
 2. Logistic Regression
@@ -10,16 +11,16 @@ Implement these with a basic knowledge of Data Analytics and Machine Learning
 4. Random Forests - Needs a fix
 5. CNN
 
-Also read the awesome tutorial on backpropogation from the same book (Chap 2) and why it works so well for neural nets
+Also read the awesome tutorial on backpropogation from the same book ([Chapter 2](http://neuralnetworksanddeeplearning.com/chap2.html)) and why it works so well for neural nets
 
 6. CNN with Abstraction using Tensorflow. - Needs a fix
 
-Read what happens when the network has a slow learning rate due to the L2 cost function from chap 3 of the above book
+## 2: Read what happens when the network has a slow learning rate due to the L2 cost function from [Chapter 3](http://neuralnetworksanddeeplearning.com/chap3.html)
 
 a. Cross Entropy
 b. SoftMax
 
-Read about Regularization and why it works. Simple is better, but not neccesarily.
+## 3: Read about [Regularization](http://neuralnetworksanddeeplearning.com/chap3.html#regularization) and why it works. Simple is better, but not neccesarily.
 
 a. Over Fitting
 b. No Free Lunches
